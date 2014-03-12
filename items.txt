@@ -1,0 +1,16 @@
+BOOK,HPDH-1,Harry Potter and the Deathly Hallows,Wizarding,J.K. Rowling,Book,1
+BOOK,HPDH-2,Harry Potter and the Deathly Hallows,Wizarding,J.K. Rowling,Book,1
+BOOK,HPDH-3,Harry Potter and the Deathly Hallows,Wizarding,J.K. Rowling,Book,1
+BOOK,PL-1,Pirate Latitudes,The Caribbean 1665,Michael Crichton,Book,1
+BOOK,CSH-1,The Complete Sherlock Holmes,Who done it,Sir Arthur Conan Doyle,Book,1
+BOOK,CSH-2,The Complete Sherlock Holmes,Who done it,Sir Arthur Conan Doyle,Book,1
+MUSIC,HWGA-1,Here We Go Again,Wynton Marsalis,blues, MP3 Download,Music,1
+MUSIC,HWGA-2,Here We Go Again,Wynton Marsalis,blues, MP3 Download,Music,1
+MUSIC,HWGA-3,Here We Go Again,Wynton Marsalis,blues, MP3 Download,Music,1
+MUSIC,MC-1,McCartney,Paul McCartney,rock,CD,Music,1
+MUSIC,MC-2,McCartney,Paul McCartney,rock,CD,Music,1
+MUSIC,LZ-1,Led Zeppelin 2,Led Zeppelin,hard rock,CD,Music,1
+MUSIC,LZ-2,Led Zeppelin 2,Led Zeppelin,hard rock,CD,Music,1
+MUSIC,TO-1,Time Out,The Dave Brubeck Quartet,jazz,CD,Music,1
+MUSIC,EOMS-1,Exiles on Main Street,The Rolling Stones,blues rock,CD,Music,1
+MUSIC,EOMS-2,Exiles on Main Street,The Rolling Stones,blues rock,CD,Music,1
