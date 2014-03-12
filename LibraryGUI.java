@@ -386,8 +386,8 @@ public class LibraryGUI extends JPanel implements ActionListener, ListSelectionL
 			if (ctrl.checkBorrower(borrowerID)) //borrowerID check
 			{
 				Borrower borrower = ctrl.borrowersOnFile.getBorrower(borrowerID);
-				JOptionPane.showMessageDialog(null, "Borrower History for ID: " + borrowerID + "\nName: " + borrower.name);
-				ctrl.history(borrowerID);
+				viewArea.append("\n\nBorrower History for ID: " + borrowerID + "\nName: " + borrower.name);
+				viewArea.append(ctrl.history(borrowerID));
 			}
 			else
 			if(!ctrl.checkBorrower(borrowerID))

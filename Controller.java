@@ -166,10 +166,12 @@ public class Controller
 		return borrowersOnFile.borrowerList.containsKey(borrowerID);
 	}
 
-	public void history(String ID)
+	public String history(String ID)
 	{
 		Borrower borrower = borrowersOnFile.getBorrower(ID);
-		borrower.history.printRecord(ID);		
+		return borrower.history.printRecord(ID);	
+		
+		
 	}
 
 }

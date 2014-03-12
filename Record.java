@@ -9,9 +9,12 @@ public class Record
 		history += "\nTransation Date: " + date + "\nType: " + transactions + "\nItem: " + Item + "\n";
 	}
 	
-	public void printRecord(String borrowerID)
+	public String printRecord(String borrowerID)
 	{
-		JOptionPane.showMessageDialog(null, history);
+		String returnHistory = "";
+		returnHistory = history; 
+		
+		return returnHistory;
 	}
 
 }
